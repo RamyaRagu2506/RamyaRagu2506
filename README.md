@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Ramya
-- 👀 I’m interested in Crunching and munching data with AI Technologies. 
-- 🌱 I’m always learning and currently researching on Evolution of Data and AI.
-- 💞️ I’m looking to collaborate on Data and Health. 
-- 📫 How to reach me -> Linkedin:https://www.linkedin.com/in/ramya-ragu-322747236/
-- 🍫 Love transforming text to insightful meaning, currently working in the world of text data.
+MSc AI student at Vrije Universiteit Amsterdam, specializing in healthcare AI. Currently researching LLM-generated clinical explanations for survival models — focusing on trust calibration, confidence communication, and evaluation frameworks for safe deployment in clinical environments. Interested in explainable AI, NLP , and human-AI decision-making for medicine.
+- 📫 Linkedin:https://www.linkedin.com/in/ramya-ragu-322747236/
+
 <!---
 RamyaRagu2506/RamyaRagu2506 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
