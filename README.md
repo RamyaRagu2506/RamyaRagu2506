@@ -1,4 +1,11 @@
-MSc AI Graduate specializing in healthcare AI - Vrije Universiteit Amsterdam. Currently researching LLM-generated clinical explanations for survival models primarily focusing on trust calibration, confidence communication, and evaluation frameworks for safe deployment in clinical environments. Interested in explainable AI, NLP , and human-AI decision-making for medicine.
+Hi, I’m Ramya 👋
+MSc AI graduate (Healthcare) from Vrije Universiteit Amsterdam, working at the intersection of data and machine learning.
+I’m interested in how people make decisions when the stakes are high, which is why most of my work focuses on healthcare.
+- How I work: Every project starts with a problem, and every problem with evidence. So I start with the data (exploring, analysing and preprocessing it) and make decisions on how it will be used, before choosing a model. Further I focus on evaluation to hold up the results. 
+- Recent work: Evaluating how reliably LLMs communicate their confidence in clinical explanations.
+- Interested in explainable AI, NLP , and human-AI interaction.
+Open to data science and AI engineering roles.
+
 - 📫 Linkedin: https://www.linkedin.com/in/ramya-ragu-322747236/
 
 <!---
